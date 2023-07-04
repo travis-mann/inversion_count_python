@@ -6,10 +6,9 @@
 
 # --- metadata ---
 __author__ = "Travis Mann"
-__version__ = "0.1"
+__version__ = "1.0"
 __maintainer__ = "Travis Mann"
 __email__ = "tmann.eng@gmail.com"
-__status__ = "Development"
 
 
 # --- imports ---
